@@ -1,0 +1,21 @@
+.btn {
+  height: 50px;
+  width: 50px;
+  background-color: #2a6ac8;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #193f77;
+  color: rgb(177, 175, 175);
+}
+
+.btn:active {
+  background-color: #0f2647;
+  color: rgb(255, 255, 255);
+}
